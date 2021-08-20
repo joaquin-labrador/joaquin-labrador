@@ -5,8 +5,7 @@
 ![coding](https://user-images.githubusercontent.com/86396736/130173618-d95d213f-76ff-48b8-b75f-2cd92a25f820.jpg)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
+<p align="left"> <a href="https://www.linkedin.com/in/joaquin-leonardo-labrador-658346198/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>![Uploading letter-c-png-5a36954d474e54.1991877715135266052921 (1).jpg…]()
 
 ## You can find me 🌎:
 <p align="left">
