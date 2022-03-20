@@ -1,5 +1,5 @@
 ### Hi i'm Joaquin 👋🏼 
-🌱 I’m currently learning Java language, web development (HTML,CSS,JS)
+🌱 I’m currently learning Java language, web development (HTML,CSS,JS,C)
 
 
 ![coding](https://user-images.githubusercontent.com/86396736/130173618-d95d213f-76ff-48b8-b75f-2cd92a25f820.jpg)
