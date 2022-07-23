@@ -1,5 +1,8 @@
 ### Hi i'm Joaquin 👋🏼 
-🌱 I’m currently learning Java language, web development (HTML,CSS,JS,C,JAVA)
+🌱 I’m currently learning Node.js, Backend development ⚙
+
+I know 👩‍💻
+(HTML,CSS,JS,C,JAVA)
 
 
 ![coding](https://user-images.githubusercontent.com/86396736/130173618-d95d213f-76ff-48b8-b75f-2cd92a25f820.jpg)
