@@ -14,9 +14,11 @@ I know 👩‍💻
 </p>
 
 ## Skills
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquin-labrador&show_icons=true&locale=en&layout=compact&theme=dracula " alt="joaquin-labrador"/></p>
 
 ## Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquin-labrador&show_icons=true&theme=dracula)
 </p>
 
