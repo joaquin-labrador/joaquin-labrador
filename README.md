@@ -1,3 +1,5 @@
+<div align="justify">
+  
 ### Hi i'm Joaquin 👋🏼 
 🌱 I’m currently learning Node.js, Backend development ⚙
 
@@ -24,10 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" width="58" alt="css3 logo"  />
 </div>
 
-###
-
-###
-
 ## Skills
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joaquin-labrador&show_icons=true&locale=en&layout=compact&theme=aura" alt="joaquin-labrador" /></p>
@@ -40,5 +38,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaquin-labrador&show_icons=true&theme=aura)
 </p>
-
-
+</div>
