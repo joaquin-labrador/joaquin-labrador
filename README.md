@@ -1,7 +1,7 @@
 ### Hi i'm Joaquin 👋🏼 
 🌱 I’m currently learning Node.js, Backend development ⚙
 
-## You can find me 🌎: 
+## You can find me 🌎
 <p align="left">
 <a href="https://www.linkedin.com/in/joaquin-leonardo-labrador-658346198/" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" /></a>
 </p>
