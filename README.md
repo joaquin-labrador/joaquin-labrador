@@ -1,7 +1,7 @@
 <div align="justify">
   
 ### Hi i'm Joaquin 👋🏼 
-🌱 I’m currently learning Node.js, Backend development ⚙
+Backend development ⚙
 
 ## You can find me 🌎
 <p align="left">
