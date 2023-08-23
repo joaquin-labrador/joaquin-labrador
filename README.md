@@ -1,7 +1,7 @@
 <div align="justify">
   
 ### Hi i'm Joaquin 👋🏼 
-Backend development ⚙
+FullStack developer at Certant ⚙
 
 ## You can find me 🌎
 <p align="left">
